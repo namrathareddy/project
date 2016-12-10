@@ -109,7 +109,9 @@ public class ProjectMangementsaucelabs {
 		
 	
 	public static void main(String[] args) throws MalformedURLException, InterruptedException{
+		
 		ProjectMangementsaucelabs projectsaucelabs= new ProjectMangementsaucelabs();
+		
 		projectsaucelabs.setup();
 		projectsaucelabs.login();
 		projectsaucelabs.profileupdate();

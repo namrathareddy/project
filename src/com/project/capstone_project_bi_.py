@@ -32,7 +32,7 @@ llm = genai.GenerativeModel("models/gemini-2.5-flash")
 
 print(llm)
 
-##AIzaSyCHH7MncYdV67uoV3GYCEc-ghnNVr0vOVk
+
 
 """Loading the PDF and split into tokens"""
 
